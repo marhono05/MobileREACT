@@ -1,0 +1,8 @@
+npx create-expo-app@latest --template // cria o projeto
+
+npm install -g npm@11.17.0 //em casa de erro, instalar a versão
+
+BLANK - TYPE SCRIPT
+S7
+
+npx expo install react-dom react-native-web
